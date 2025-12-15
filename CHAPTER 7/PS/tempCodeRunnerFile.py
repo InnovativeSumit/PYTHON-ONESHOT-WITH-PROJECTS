@@ -1,0 +1,1 @@
+print(f"Multiplication table of {num} in reverse order:")
