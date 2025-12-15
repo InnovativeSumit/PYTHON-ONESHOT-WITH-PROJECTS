@@ -20,10 +20,6 @@ Whether you're a **beginner** or an **experienced developer**, this repo helps y
 
 ## 📚 Learning Path & Curriculum
 
-### 🎯 Level 1: Python Fundamentals
-<details>
-<summary><strong>Click to expand</strong></summary>
-
 #### 📦 Core Concepts
 - Variables & Data Types (int, float, string, boolean)
 - Operators (Arithmetic, Comparison, Logical)
